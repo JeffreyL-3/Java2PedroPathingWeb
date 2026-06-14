@@ -1,0 +1,5 @@
+{
+  "name": "PedroPathing JSON Generator",
+  "description": "Converts FTC PedroPathing Java autonomous code into a pathing JSON file.",
+  "requestFramePermissions": []
+}
